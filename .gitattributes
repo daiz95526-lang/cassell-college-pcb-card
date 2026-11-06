@@ -1,0 +1,8 @@
+* text=auto eol=lf
+*.epcb2 text eol=lf
+*.eprj3 text eol=lf
+*.GKO text eol=lf
+*.GTL text eol=lf
+*.GBL text eol=lf
+*.GTS text eol=lf
+*.GBS text eol=lf

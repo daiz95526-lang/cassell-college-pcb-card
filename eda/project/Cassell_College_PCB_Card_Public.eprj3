@@ -1,0 +1,69 @@
+{
+  "name": "Cassell_College_PCB_Card_Public",
+  "owner_uuid": "00000000-0000-4000-8000-000000000001",
+  "creator_uuid": "00000000-0000-4000-8000-000000000001",
+  "created_at": "2026-10-27 08:45:28",
+  "updated_at": "2026-10-27 08:45:28",
+  "modifier_uuid": "00000000-0000-4000-8000-000000000001",
+  "content": "",
+  "archive": false,
+  "cbb_project": 0,
+  "thumb": "",
+  "ticket": 1,
+  "g_ticket": 1,
+  "boards": [],
+  "block_symbol_attrs_groups": {},
+  "branch_uuid": "",
+  "pcb_count": 0,
+  "format": "folder",
+  "profile": {
+    "boards": {
+      "3659c95bea3c3eac": {
+        "uuid": "3659c95bea3c3eac",
+        "title": "Board1",
+        "zIndex": 1
+      }
+    },
+    "schematics": {},
+    "sheets": {},
+    "pcbs": {
+      "7660145a60903299": {
+        "uuid": "7660145a60903299",
+        "title": "PCB1",
+        "board": "3659c95bea3c3eac",
+        "parent_uuid": "",
+        "source": "",
+        "version": "1793148188981",
+        "updateTime": 1793148188981
+      }
+    },
+    "panels": {},
+    "blockSymbols": {},
+    "owner": {
+      "uuid": "00000000-0000-4000-8000-000000000001"
+    },
+    "simSchematics": {},
+    "simulations": {}
+  },
+  "config": {
+    "settings": {
+      "UNIVERSAL": {
+        "dataType": "UNIVERSAL",
+        "data": {
+          "allowLibRename": true,
+          "defaultNetName": true,
+          "wireMultipleNet": true,
+          "netFlagCrossLayerConnection": true,
+          "netLabelCrossPageConnection": true,
+          "busGenerateNetClass": true,
+          "relevanceDisplayRow": "SINGLE",
+          "relevanceBelongSchPage": "NAME",
+          "relevanceLocation": "ZONE",
+          "multipartCrossLayer": true,
+          "nonElectronicAddIntoBom": false,
+          "nonElectronicUpdatePcb": false
+        }
+      }
+    }
+  }
+}

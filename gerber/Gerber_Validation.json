@@ -1,0 +1,46 @@
+{
+  "status": "GEOMETRY_VALIDATED_GUI_DRC_AND_FACTORY_REVIEW_NOT_PERFORMED",
+  "source": "eda/project/pcb/PCB1.epcb2",
+  "board": {
+    "width_mm": 85.6,
+    "height_mm": 54.0,
+    "corner_radius_mm": 3.18,
+    "layers": 2
+  },
+  "gerber_files": [
+    "Gerber_BoardOutlineLayer.GKO",
+    "Gerber_BottomLayer.GBL",
+    "Gerber_BottomSolderMaskLayer.GBS",
+    "Gerber_TopLayer.GTL",
+    "Gerber_TopSolderMaskLayer.GTS"
+  ],
+  "drill_files": [],
+  "checks": {
+    "front": {
+      "regions": 230,
+      "native_gerber_symmetric_difference_mm2": 0.0,
+      "copper_mask_symmetric_difference_mm2": 0.0,
+      "exposed_area_mm2": 433.5800641021005
+    },
+    "back": {
+      "regions": 210,
+      "native_gerber_symmetric_difference_mm2": 0.0,
+      "copper_mask_symmetric_difference_mm2": 0.0,
+      "exposed_area_mm2": 465.6668487573439
+    }
+  },
+  "outline": {
+    "closed": true,
+    "profile": "one rounded rectangle, R3.18 mm",
+    "no_holes": true
+  },
+  "gerber_sha256": {
+    "Gerber_TopLayer.GTL": "2ada26604b87c621db74064011f807b1039c25f295b82fca882bad7a1c3cde30",
+    "Gerber_BottomLayer.GBL": "7f1a1abe41e86308a40468f267a3e8af93e4259005d8fe89bee6f478d9e5d719",
+    "Gerber_TopSolderMaskLayer.GTS": "02a2801dec59a1a256f978c48d2245dfb4dcd9a7e9feeb4926e32741944295ae",
+    "Gerber_BottomSolderMaskLayer.GBS": "53e2d87ca214726cf5f548da7eef0b4bb22e2be2f0f73fc77189df6ccac8661e",
+    "Gerber_BoardOutlineLayer.GKO": "a82ee7a7457b582a66d04630ba1bcfd43ca76bacf65ef0954d68ac08ecde3d76"
+  },
+  "zip_sha256": "4e97da240e6ac6af46ccca99504b225585a250e1dacd456adf7ee40759cbfa12",
+  "note": "Gerbers were written from the public native PCB FILL records. They are not a direct EasyEDA GUI export. Reopen and run EasyEDA DRC before treating this public revision as production-ready."
+}

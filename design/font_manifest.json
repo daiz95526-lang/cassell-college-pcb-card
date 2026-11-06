@@ -1,0 +1,15 @@
+{
+  "serif": {
+    "family": "Georgia",
+    "embedded": false
+  },
+  "data": {
+    "family": "Cambria",
+    "embedded": false
+  },
+  "sans": {
+    "family": "Calibri",
+    "embedded": false
+  },
+  "note": "Font files are not included. Rebuild SVG outlines with compatible locally installed fonts; editable SVG text remains available."
+}

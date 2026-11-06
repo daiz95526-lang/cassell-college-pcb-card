@@ -1,0 +1,49 @@
+{
+  "revision": "R1",
+  "status": "STAGE_1_REVIEW_DRAFT",
+  "width_mm": 85.6,
+  "height_mm": 54.0,
+  "corner_radius_mm_proposed": 3.18,
+  "thickness_mm_proposed": 1.0,
+  "border_inset_mm_proposed": 1.6,
+  "title": "CASSELL COLLEGE",
+  "subtitle": "EXPLORATION  KNOWLEDGE  FREEDOM",
+  "motto": "PER ASPERA AD ASTRA",
+  "fields": [
+    {
+      "id": "name",
+      "label": "NAME",
+      "value": "RILEY MORGAN",
+      "confirmed_content": true
+    },
+    {
+      "id": "student_id",
+      "label": "STUDENT ID",
+      "value": "CC-0001",
+      "confirmed_content": true
+    },
+    {
+      "id": "bloodline_grade",
+      "label": "BLOODLINE GRADE",
+      "value": "S",
+      "confirmed_content": false
+    },
+    {
+      "id": "department",
+      "label": "DEPARTMENT",
+      "value": "EXECUTIVE",
+      "confirmed_content": false
+    },
+    {
+      "id": "date",
+      "label": "VALID THRU",
+      "value": "2030.09",
+      "confirmed_content": false
+    }
+  ],
+  "palette": {
+    "mask": "#073e32",
+    "gold": "#c8a65c"
+  },
+  "notes": "All physical parameters are proposals. Art-only two-sided PCB; no electrical circuit, no six-layer justification."
+}

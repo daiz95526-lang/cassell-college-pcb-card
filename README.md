@@ -37,17 +37,16 @@ Color, thickness, copper weight, and finish are order parameters; Gerber artwork
 - Latin motto: **PER ASPERA AD ASTRA**
 - Copper artwork with matching solder-mask openings on both sides
 
-The public card text is English/Latin only. Editable-text SVGs, outlined SVGs, and flattened artwork SVGs are included. The EasyEDA Pro project contains a PCB document only: no schematic, components, nets, vias, or drilled holes are part of this art-only design.
+The public card text is English/Latin only. Editable-text SVGs, outlined SVGs, and flattened artwork SVGs are included. The [EasyEDA Pro source archive](eda/project/EasyEDA_Editable_Source.zip) includes the project file, editable PCB document, and DFM polygon JSON. Run `scripts/restore_easyeda_source.ps1` after cloning to expand them into their working paths. The EasyEDA Pro project contains a PCB document only: no schematic, components, nets, vias, or drilled holes are part of this art-only design.
 
 ## Project structure
 
 ```text
 design/                 Editable text, outlined artwork, and fictional card data
 assets/                 Independent vector artwork used by the design sources
-eda/project/            EasyEDA Pro folder project and editable PCB source
+eda/project/            EasyEDA Pro project source archive
+scripts/                 Restore the editable EasyEDA source files
 eda/geometry/           Editable and DFM-adjusted SVG geometry
-eda/artwork_geometry_dfm_v2.json
-                        DFM-adjusted two-face polygon geometry, in mm
 eda/tools/              Geometry, Gerber, and preview utilities
 gerber/                 Copper/mask layers, board outline, ZIP, validation
 images/                 Gerber-derived flat front/back gallery previews

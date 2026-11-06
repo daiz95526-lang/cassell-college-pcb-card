@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="85.6mm" height="54mm" viewBox="0 0 85.6 54" version="1.1">
+  <title>Cassell College — front — R1 review draft</title>
+  <desc>Independent editable vector artwork. Proposed dimensions 85.6 × 54 mm. Not a PCB engineering or fabrication file. Physical values are unapproved proposals.</desc>
+  <metadata>{"revision": "R1", "phase": 1, "side": "front", "physical_parameters_confirmed": false}</metadata>
+  <rect x="0" y="0" width="85.6" height="54" rx="3.18" fill="#073e32" id="preview-green-substrate" />
+  <g id="frame">
+    <rect x="1.6" y="1.6" width="82.39999999999999" height="50.8" rx="1.58" fill="none" stroke="#c8a65c" stroke-width="0.26" />
+    <path d="M3,5 L3,3 L5,3" fill="none" stroke="#c8a65c" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M82.6,5 L82.6,3 L80.6,3" fill="none" stroke="#c8a65c" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M3,49 L3,51 L5,51" fill="none" stroke="#c8a65c" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M82.6,49 L82.6,51 L80.6,51" fill="none" stroke="#c8a65c" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+  <g id="college-name" fill="#c8a65c" stroke="#c8a65c" stroke-width="0.065" stroke-linejoin="round" data-text="CASSELL COLLEGE" data-font-key="serif" data-size-mm="5.45" data-baseline="9.4" data-x-origins="[6.0, 9.9493896484375, 14.0557861328125, 17.563427734375, 21.0710693359375, 25.0816650390625, 28.8208251953125, 32.5599853515625, 34.3245849609375, 38.273974609375, 42.779541015625, 46.518701171875, 50.257861328125, 54.26845703125, 58.670239257812504]">
+    <text x="6.00000 9.94939 14.05579 17.56343 21.07107 25.08167 28.82083 32.55999 34.32458 38.27397 42.77954 46.51870 50.25786 54.26846 58.67024" y="9.4" font-family="Georgia" font-weight="normal" font-size="5.45" xml:space="preserve">CASSELL COLLEGE</text>
+  </g>
+  <g id="college-values" fill="#c8a65c" stroke="#c8a65c" stroke-width="0.035" stroke-linejoin="round" data-text="EXPLORATION  KNOWLEDGE  FREEDOM" data-font-key="sans" data-size-mm="1.42" data-baseline="13.0" data-x-origins="[6.3, 7.272666015625, 8.334775390625, 9.370537109375, 10.250986328125, 11.4912890625, 12.570732421875, 13.71119140625, 14.6942578125, 15.35283203125, 16.593134765625, 17.808476562499997, 18.409501953124998, 19.01052734375, 20.067089843749997, 21.282431640624996, 22.522734374999995, 24.089609374999995, 24.970058593749997, 25.942724609374995, 27.117851562499993, 28.302685546874994, 29.275351562499992, 29.876376953124993, 30.477402343749993, 31.409160156249992, 32.488603515624995, 33.46126953125, 34.433935546875, 35.6090625, 36.849365234375]">
+    <text x="6.30000 7.27267 8.33478 9.37054 10.25099 11.49129 12.57073 13.71119 14.69426 15.35283 16.59313 17.80848 18.40950 19.01053 20.06709 21.28243 22.52273 24.08961 24.97006 25.94272 27.11785 28.30269 29.27535 29.87638 30.47740 31.40916 32.48860 33.46127 34.43394 35.60906 36.84937" y="13.0" font-family="Calibri" font-weight="bold" font-size="1.42" xml:space="preserve">EXPLORATION  KNOWLEDGE  FREEDOM</text>
+  </g>
+  <g id="eight-point-star">
+    <polygon points="78.1000,6.4500 78.2647,8.1023 79.0567,7.5433 78.4977,8.3353 80.1500,8.5000 78.4977,8.6647 79.0567,9.4567 78.2647,8.8977 78.1000,10.5500 77.9353,8.8977 77.1433,9.4567 77.7023,8.6647 76.0500,8.5000 77.7023,8.3353 77.1433,7.5433 77.9353,8.1023" fill="#c8a65c" />
+  </g>
+  <g id="header-rule">
+    <line x1="6.0" y1="15.55" x2="79.6" y2="15.55" stroke="#c8a65c" stroke-width="0.24" stroke-linecap="round" />
+  </g>
+  <g id="world-tree">
+    <circle cx="23.7" cy="33.2" r="15.5" fill="none" stroke="#c8a65c" stroke-width="0.24" />
+    <circle cx="23.7" cy="33.2" r="14.77" fill="none" stroke="#c8a65c" stroke-width="0.24" />
+    <g id="tree-trunk-and-primary-limbs">
+      <path d="M23.0 38.4 C24.7 35.9 24.6 32.9 23.7 30.8 C22.8 28.7 23.0 26.0 23.8 22.0 C24.4 25.8 24.4 28.0 25.3 30.0 C26.7 33.0 25.6 36.7 25.3 38.4 C25.8 40.2 28.3 41.9 30.6 43.3 C27.4 42.4 25.2 41.1 24.3 39.7 C23.0 41.4 20.4 42.8 17.5 43.4 C19.7 41.9 22.2 40.2 23.0 38.4 Z" fill="#c8a65c" stroke="#c8a65c" stroke-width="0.18" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M24.3 33.6 C22.3 30.8 19.8 30.0 16.1 29.9 C13.8 29.9 12.0 29.3 10.8 28.2" fill="none" stroke="#c8a65c" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M23.6 31.0 C21.2 28.6 19.0 27.7 15.9 27.3 C14.1 27.0 13.4 26.4 12.5 25.3" fill="none" stroke="#c8a65c" stroke-width="0.45" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M23.9 28.5 C21.5 27.0 20.9 24.5 19.6 22.4" fill="none" stroke="#c8a65c" stroke-width="0.48" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M23.7 25.8 C22.4 24.1 22.4 22.8 22.6 21.1" fill="none" stroke="#c8a65c" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M24.5 30.1 C26.6 27.7 28.4 26.4 32.1 25.7 C33.8 25.4 34.4 24.8 35.0 24.1" fill="none" stroke="#c8a65c" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M25.5 33.1 C28.2 30.2 30.8 29.9 34.1 29.5 C35.6 29.3 36.3 28.7 36.9 27.9" fill="none" stroke="#c8a65c" stroke-width="0.58" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M24.3 27.6 C26.8 25.7 26.9 23.6 27.9 21.8" fill="none" stroke="#c8a65c" stroke-width="0.4" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M21.4 29.2 C20.2 27.0 18.7 25.2 16.0 24.1" fill="none" stroke="#c8a65c" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M18.8 30.0 C16.7 28.6 15.5 28.6 13.6 28.6" fill="none" stroke="#c8a65c" stroke-width="0.27" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M16.0 29.9 C14.7 31.2 12.8 31.9 11.4 31.4" fill="none" stroke="#c8a65c" stroke-width="0.28" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M21.2 31.2 C18.8 32.6 16.0 33.8 12.5 33.3" fill="none" stroke="#c8a65c" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M17.1 27.5 C17.0 25.3 16.2 23.9 14.9 23.0" fill="none" stroke="#c8a65c" stroke-width="0.27" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M20.4 23.8 C19.3 23.2 18.8 22.5 18.5 21.5" fill="none" stroke="#c8a65c" stroke-width="0.26" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M25.8 26.1 C25.6 24.3 25.9 22.3 25.7 20.7" fill="none" stroke="#c8a65c" stroke-width="0.27" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M27.9 28.0 C29.1 26.1 29.2 24.5 29.2 23.3" fill="none" stroke="#c8a65c" stroke-width="0.29" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M31.3 25.9 C31.6 24.4 32.4 23.4 33.1 22.9" fill="none" stroke="#c8a65c" stroke-width="0.26" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M30.3 30.1 C31.6 28.5 31.8 27.9 32.3 27.0" fill="none" stroke="#c8a65c" stroke-width="0.29" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M32.9 29.7 C34.5 30.9 35.5 31.2 36.4 31.1" fill="none" stroke="#c8a65c" stroke-width="0.27" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M28.2 31.1 C29.6 32.9 32.2 33.6 34.8 33.4" fill="none" stroke="#c8a65c" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M20.0 32.0 C18.5 31.7 17.8 31.8 16.6 32.1" fill="none" stroke="#c8a65c" stroke-width="0.24" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M14.4 27.0 C14.0 25.6 13.6 24.7 13.0 24.3" fill="none" stroke="#c8a65c" stroke-width="0.24" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M34.5 29.3 C35.3 28.0 35.5 27.2 35.8 26.6" fill="none" stroke="#c8a65c" stroke-width="0.24" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+    <g id="tree-secondary-twigs">
+      <path d="M14.7 29.8 Q14.1 29.0 13.9 28.1" fill="none" stroke="#c8a65c" stroke-width="0.23" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M17.5 29.9 Q17.1 28.8 17.4 28.0" fill="none" stroke="#c8a65c" stroke-width="0.23" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M18.0 27.8 Q18.5 26.8 18.2 25.7" fill="none" stroke="#c8a65c" stroke-width="0.23" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M20.8 28.5 Q20.7 26.7 20.2 25.8" fill="none" stroke="#c8a65c" stroke-width="0.23" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M21.8 26.1 Q21.6 25.0 20.8 24.2" fill="none" stroke="#c8a65c" stroke-width="0.23" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M23.2 25.1 Q24.0 23.9 23.9 22.4" fill="none" stroke="#c8a65c" stroke-width="0.23" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M25.9 25.9 Q27.6 25.2 28.2 24.5" fill="none" stroke="#c8a65c" stroke-width="0.23" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M28.9 25.4 Q30.2 24.6 30.4 23.7" fill="none" stroke="#c8a65c" stroke-width="0.23" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M29.6 26.6 Q31.0 26.9 32.3 26.5" fill="none" stroke="#c8a65c" stroke-width="0.23" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M32.1 25.7 Q33.8 26.1 34.4 25.7" fill="none" stroke="#c8a65c" stroke-width="0.23" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M34.2 29.4 Q34.5 28.3 34.2 27.6" fill="none" stroke="#c8a65c" stroke-width="0.23" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M31.5 30.0 Q32.4 30.9 33.2 31.1" fill="none" stroke="#c8a65c" stroke-width="0.23" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M29.4 32.2 Q30.7 32.0 31.3 32.5" fill="none" stroke="#c8a65c" stroke-width="0.23" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M18.5 32.7 Q17.8 33.8 16.5 34.0" fill="none" stroke="#c8a65c" stroke-width="0.23" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M16.8 33.3 Q15.8 32.8 15.1 32.8" fill="none" stroke="#c8a65c" stroke-width="0.23" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M13.9 31.0 Q13.2 30.6 12.8 30.0" fill="none" stroke="#c8a65c" stroke-width="0.23" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M20.9 40.0 Q19.8 39.4 19.6 38.6" fill="none" stroke="#c8a65c" stroke-width="0.23" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M26.3 39.4 Q27.6 38.7 28.5 38.8" fill="none" stroke="#c8a65c" stroke-width="0.23" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M24.7 43.5 Q25.6 44.4 25.4 45.2" fill="none" stroke="#c8a65c" stroke-width="0.23" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M21.6 43.5 Q21.3 44.9 21.6 45.5" fill="none" stroke="#c8a65c" stroke-width="0.23" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M30.1 42.5 Q30.9 43.6 31.7 43.9" fill="none" stroke="#c8a65c" stroke-width="0.23" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M17.7 42.7 Q16.4 42.7 15.9 43.1" fill="none" stroke="#c8a65c" stroke-width="0.23" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+    <g id="tree-roots">
+      <path d="M24 38.8 C22.7 39.5 21.3 39.9 19.2 40.0 C16.7 40.1 14.6 40.6 12.7 41.8" fill="none" stroke="#c8a65c" stroke-width="0.43" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M24 39.0 C23.0 41.0 23.6 43.4 23.2 45.7" fill="none" stroke="#c8a65c" stroke-width="0.43" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M24.3 39.5 C25.0 41.6 25.0 43.6 26.5 45.2" fill="none" stroke="#c8a65c" stroke-width="0.38" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M25 39.0 C27.6 39.7 30.3 39.7 33.7 41.1" fill="none" stroke="#c8a65c" stroke-width="0.43" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M22 40.9 C19.9 41.3 17.8 42.9 15.4 43.8" fill="none" stroke="#c8a65c" stroke-width="0.34" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M24 42.0 C22.0 42.8 21.3 44.1 20.4 45.1" fill="none" stroke="#c8a65c" stroke-width="0.29" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M26.6 41.5 C29.2 41.6 31.8 43.1 32.6 43.8" fill="none" stroke="#c8a65c" stroke-width="0.31" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M29.6 40.0 C31.2 39.4 33.1 39.4 34.7 39.8" fill="none" stroke="#c8a65c" stroke-width="0.28" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M18.6 40.0 C17.6 39.3 16.5 39.1 14.8 39.4" fill="none" stroke="#c8a65c" stroke-width="0.28" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M19.8 41.8 C19.0 43.1 18.7 44.0 18.0 44.5" fill="none" stroke="#c8a65c" stroke-width="0.26" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M27.3 43.0 C28.5 43.7 29.2 44.4 29.6 44.9" fill="none" stroke="#c8a65c" stroke-width="0.26" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M16.2 40.5 C15.5 41.6 15.0 42.0 14.4 42.3" fill="none" stroke="#c8a65c" stroke-width="0.26" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M31.7 40.4 C32.2 41.5 33.4 42.1 34.0 42.3" fill="none" stroke="#c8a65c" stroke-width="0.26" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+    <g id="tree-leaves" fill="#c8a65c" stroke="none">
+      <path id="leaf-0" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(11.7 27.6) rotate(-35)" />
+      <path id="leaf-1" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(13.1 25.0) rotate(-20)" />
+      <path id="leaf-2" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(14.7 22.9) rotate(-40)" />
+      <path id="leaf-3" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(16.0 24.0) rotate(-18)" />
+      <path id="leaf-4" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(18.4 21.3) rotate(-24)" />
+      <path id="leaf-5" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(19.5 22.4) rotate(5)" />
+      <path id="leaf-6" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(22.6 21.0) rotate(4)" />
+      <path id="leaf-7" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(25.7 20.6) rotate(-8)" />
+      <path id="leaf-8" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(28.0 21.7) rotate(25)" />
+      <path id="leaf-9" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(29.2 23.1) rotate(5)" />
+      <path id="leaf-10" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(32.5 23.3) rotate(28)" />
+      <path id="leaf-11" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(34.2 24.5) rotate(32)" />
+      <path id="leaf-12" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(35.3 26.7) rotate(15)" />
+      <path id="leaf-13" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(36.2 28.2) rotate(30)" />
+      <path id="leaf-14" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(36.0 31.1) rotate(65)" />
+      <path id="leaf-15" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(34.6 33.4) rotate(105)" />
+      <path id="leaf-16" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(12.3 33.2) rotate(-85)" />
+      <path id="leaf-17" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(11.4 31.4) rotate(-66)" />
+      <path id="leaf-18" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(13.7 28.5) rotate(-70)" />
+      <path id="leaf-19" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(16.5 32.1) rotate(-45)" />
+      <path id="leaf-20" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(17.7 25.9) rotate(-30)" />
+      <path id="leaf-21" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(20.0 25.0) rotate(-24)" />
+      <path id="leaf-22" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(27.0 24.2) rotate(22)" />
+      <path id="leaf-23" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(30.7 27.9) rotate(50)" />
+      <path id="leaf-24" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(33.7 31.8) rotate(80)" />
+      <path id="leaf-25" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(13.9 28.1) rotate(-20)" />
+      <path id="leaf-26" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(17.4 28.0) rotate(5)" />
+      <path id="leaf-27" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(18.2 25.7) rotate(12)" />
+      <path id="leaf-28" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(20.2 25.8) rotate(-15)" />
+      <path id="leaf-29" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(20.8 24.2) rotate(-35)" />
+      <path id="leaf-30" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(23.9 22.4) rotate(12)" />
+      <path id="leaf-31" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(28.2 24.5) rotate(55)" />
+      <path id="leaf-32" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(30.4 23.7) rotate(15)" />
+      <path id="leaf-33" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(32.3 26.5) rotate(65)" />
+      <path id="leaf-34" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(34.4 25.7) rotate(65)" />
+      <path id="leaf-35" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(34.2 27.6) rotate(-10)" />
+      <path id="leaf-36" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(33.2 31.1) rotate(65)" />
+      <path id="leaf-37" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(31.3 32.5) rotate(105)" />
+      <path id="leaf-38" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(16.5 34.0) rotate(-100)" />
+      <path id="leaf-39" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(15.1 32.8) rotate(-75)" />
+      <path id="leaf-40" d="M0 0 C-.35 -.45 -.36 -1.0 0 -1.55 C.36 -1.0 .35 -.45 0 0 Z" transform="translate(12.8 30.0) rotate(-40)" />
+    </g>
+  </g>
+  <g id="information-divider">
+    <line x1="44.6" y1="19.1" x2="44.6" y2="48.8" stroke="#c8a65c" stroke-width="0.25" stroke-linecap="round" />
+  </g>
+  <g id="name-label" fill="#c8a65c" stroke="#c8a65c" stroke-width="0.025" stroke-linejoin="round" data-text="NAME:" data-font-key="sans" data-size-mm="1.52" data-baseline="21.15" data-x-origins="[48.2, 49.3412109375, 50.402265625, 51.87078125, 52.7522265625]">
+    <text x="48.20000 49.34121 50.40227 51.87078 52.75223" y="21.15" font-family="Calibri" font-weight="bold" font-size="1.52" xml:space="preserve">NAME:</text>
+  </g>
+  <g id="name-value" fill="#c8a65c" stroke="#c8a65c" stroke-width="0.065" stroke-linejoin="round" data-text="RILEY MORGAN" data-font-key="data" data-size-mm="2.85" data-baseline="23.9" data-x-origins="[48.2, 50.1101171875, 51.174140625, 52.8435107421875, 54.6228173828125, 56.3882080078125, 57.155820312500005, 59.619794921875005, 61.62175781250001, 63.53187500000001, 65.4127685546875, 67.3284521484375]">
+    <text x="48.20000 50.11012 51.17414 52.84351 54.62282 56.38821 57.15582 59.61979 61.62176 63.53188 65.41277 67.32845" y="23.9" font-family="Cambria" font-weight="normal" font-size="2.85" xml:space="preserve">RILEY MORGAN</text>
+  </g>
+  <g id="student_id-label" fill="#c8a65c" stroke="#c8a65c" stroke-width="0.025" stroke-linejoin="round" data-text="STUDENT ID:" data-font-key="sans" data-size-mm="1.52" data-baseline="27.25" data-x-origins="[48.2, 49.058437500000004, 49.951015625000004, 51.08332031250001, 52.181484375000004, 53.0629296875, 54.204140625, 55.09671875, 55.5803515625, 56.1255859375, 57.223749999999995]">
+    <text x="48.20000 49.05844 49.95102 51.08332 52.18148 53.06293 54.20414 55.09672 55.58035 56.12559 57.22375" y="27.25" font-family="Calibri" font-weight="bold" font-size="1.52" xml:space="preserve">STUDENT ID:</text>
+  </g>
+  <g id="student_id-value" fill="#c8a65c" stroke="#c8a65c" stroke-width="0.065" stroke-linejoin="round" data-text="CC-0001" data-font-key="data" data-size-mm="2.72" data-baseline="30.0" data-x-origins="[48.2, 49.870000000000005, 51.540000000000006, 52.58312500000001, 54.22921875000001, 55.87531250000001, 57.521406250000005]">
+    <text x="48.20000 49.87000 51.54000 52.58313 54.22922 55.87531 57.52141" y="30.0" font-family="Cambria" font-weight="normal" font-size="2.72" xml:space="preserve">CC-0001</text>
+  </g>
+  <g id="bloodline_grade-label" fill="#c8a65c" stroke="#c8a65c" stroke-width="0.025" stroke-linejoin="round" data-text="BLOODLINE GRADE:" data-font-key="sans" data-size-mm="1.52" data-baseline="33.349999999999994" data-x-origins="[48.2, 49.19203125, 49.974765624999996, 51.142695312499995, 52.310624999999995, 53.40878906249999, 54.19152343749999, 54.73675781249999, 55.87796874999999, 56.759414062499985, 57.24304687499998, 58.35160156249999, 59.347343749999986, 60.40839843749998, 61.50656249999998, 62.38800781249998]">
+    <text x="48.20000 49.19203 49.97477 51.14270 52.31062 53.40879 54.19152 54.73676 55.87797 56.75941 57.24305 58.35160 59.34734 60.40840 61.50656 62.38801" y="33.349999999999994" font-family="Calibri" font-weight="bold" font-size="1.52" xml:space="preserve">BLOODLINE GRADE:</text>
+  </g>
+  <g id="bloodline_grade-value" fill="#c8a65c" stroke="#c8a65c" stroke-width="0.065" stroke-linejoin="round" data-text="S" data-font-key="data" data-size-mm="2.72" data-baseline="36.099999999999994" data-x-origins="[48.2]">
+    <text x="48.20000" y="36.099999999999994" font-family="Cambria" font-weight="normal" font-size="2.72" xml:space="preserve">S</text>
+  </g>
+  <g id="department-label" fill="#c8a65c" stroke="#c8a65c" stroke-width="0.025" stroke-linejoin="round" data-text="DEPARTMENT:" data-font-key="sans" data-size-mm="1.52" data-baseline="39.449999999999996" data-x-origins="[48.2, 49.2981640625, 50.179609375, 51.12859375, 52.1896484375, 53.185390625, 54.07796875, 55.546484375, 56.4279296875, 57.569140624999996, 58.461718749999996]">
+    <text x="48.20000 49.29816 50.17961 51.12859 52.18965 53.18539 54.07797 55.54648 56.42793 57.56914 58.46172" y="39.449999999999996" font-family="Calibri" font-weight="bold" font-size="1.52" xml:space="preserve">DEPARTMENT:</text>
+  </g>
+  <g id="department-value" fill="#c8a65c" stroke="#c8a65c" stroke-width="0.065" stroke-linejoin="round" data-text="EXECUTIVE" data-font-key="data" data-size-mm="2.72" data-baseline="42.199999999999996" data-x-origins="[48.2, 49.904531250000005, 51.5984375, 53.302968750000005, 54.97296875000001, 56.87539062500001, 58.62773437500001, 59.64960937500001, 61.43117187500001]">
+    <text x="48.20000 49.90453 51.59844 53.30297 54.97297 56.87539 58.62773 59.64961 61.43117" y="42.199999999999996" font-family="Cambria" font-weight="normal" font-size="2.72" xml:space="preserve">EXECUTIVE</text>
+  </g>
+  <g id="date-label" fill="#c8a65c" stroke="#c8a65c" stroke-width="0.025" stroke-linejoin="round" data-text="VALID THRU:" data-font-key="sans" data-size-mm="1.52" data-baseline="45.55" data-x-origins="[48.2, 49.238789062500004, 50.29984375, 51.082578125, 51.6278125, 52.725976562499994, 53.20960937499999, 54.10218749999999, 55.20109374999999, 56.19683593749999, 57.329140624999994]">
+    <text x="48.20000 49.23879 50.29984 51.08258 51.62781 52.72598 53.20961 54.10219 55.20109 56.19684 57.32914" y="45.55" font-family="Calibri" font-weight="bold" font-size="1.52" xml:space="preserve">VALID THRU:</text>
+  </g>
+  <g id="date-value" fill="#c8a65c" stroke="#c8a65c" stroke-width="0.065" stroke-linejoin="round" data-text="2030.09" data-font-key="data" data-size-mm="2.72" data-baseline="48.3" data-x-origins="[48.2, 49.84609375, 51.4921875, 53.13828125, 54.784375, 55.482187499999995, 57.12828124999999]">
+    <text x="48.20000 49.84609 51.49219 53.13828 54.78437 55.48219 57.12828" y="48.3" font-family="Cambria" font-weight="normal" font-size="2.72" xml:space="preserve">2030.09</text>
+  </g>
+</svg>
